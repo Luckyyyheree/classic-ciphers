@@ -1,0 +1,16 @@
+# Vigenere Cipher
+
+Cipher abjad-majemuk: kunci berulang, tiap huruf digeser sesuai huruf kunci.
+
+Tugas mata kuliah IF4020 Kriptografi (Cipher Klasik).
+
+## Menjalankan
+```bash
+python vigenere.py
+```
+
+## Tes
+```bash
+pip install pytest
+pytest
+```
