@@ -1,0 +1,16 @@
+# Columnar Transposition Cipher
+
+Cipher transposisi kolom dengan kunci angka atau kata kunci (mis. TOMBAK).
+
+Tugas mata kuliah IF4020 Kriptografi (Cipher Klasik).
+
+## Menjalankan
+```bash
+python columnar.py
+```
+
+## Tes
+```bash
+pip install pytest
+pytest
+```
